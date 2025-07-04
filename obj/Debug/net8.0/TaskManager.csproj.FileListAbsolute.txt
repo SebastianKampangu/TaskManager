@@ -1,0 +1,14 @@
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Users\sebastienkampangu\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
